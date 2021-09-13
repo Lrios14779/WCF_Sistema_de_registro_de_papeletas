@@ -1,0 +1,26 @@
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\WCF_Final_01.dll.config
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\WCF_Final_01.dll
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\WCF_Final_01.pdb
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.csprojAssemblyReference.cache
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.csproj.CoreCompileInputs.cache
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.dll
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.pdb
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\EntityFramework.dll
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\EntityFramework.SqlServer.dll
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\EntityFramework.xml
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\EntityFramework.SqlServer.xml
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.csproj.CopyComplete
+D:\Examen_Final\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\Microsoft.ScriptManager.MSAjax.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\WCF_Final_01.dll.config
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\WCF_Final_01.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\WCF_Final_01.pdb
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\EntityFramework.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\EntityFramework.SqlServer.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\Microsoft.ScriptManager.MSAjax.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\EntityFramework.xml
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\bin\Debug\EntityFramework.SqlServer.xml
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.csprojAssemblyReference.cache
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.csproj.CoreCompileInputs.cache
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.csproj.CopyComplete
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\WCF_Final_01\obj\Debug\WCF_Final_01.pdb

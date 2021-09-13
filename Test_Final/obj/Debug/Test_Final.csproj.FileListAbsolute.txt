@@ -1,0 +1,34 @@
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\Test_Final.exe.config
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\Test_Final.exe
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\Test_Final.pdb
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\EntityFramework.dll
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\EntityFramework.SqlServer.dll
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\EntityFramework.xml
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\EntityFramework.SqlServer.xml
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.csprojAssemblyReference.cache
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.Properties.Resources.resources
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.WindowsFechas.resources
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.csproj.GenerateResource.cache
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.csproj.CoreCompileInputs.cache
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.csproj.CopyComplete
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.exe
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.pdb
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.PapeletasImpagas.resources
+D:\Examen_Final\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\Microsoft.ScriptManager.MSAjax.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\Test_Final.exe.config
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\Test_Final.exe
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\Test_Final.pdb
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\EntityFramework.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\EntityFramework.SqlServer.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\Microsoft.ScriptManager.MSAjax.dll
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\EntityFramework.xml
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\bin\Debug\EntityFramework.SqlServer.xml
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.csprojAssemblyReference.cache
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.PapeletasImpagas.resources
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.Properties.Resources.resources
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.WindowsFechas.resources
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.csproj.GenerateResource.cache
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.csproj.CoreCompileInputs.cache
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.csproj.CopyComplete
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.exe
+F:\Desarrollo de aplicaciones II\WCF_Final_Luis_Rios+01\Test_Final\obj\Debug\Test_Final.pdb

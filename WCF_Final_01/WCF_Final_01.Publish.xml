@@ -1,0 +1,16 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/WCFFinal_Rios">
+    <file relUrl="bin/EntityFramework.dll" publishTime="06/07/2018 11:03:48" />
+    <file relUrl="bin/WCF_Final_01.dll" publishTime="02/20/2020 16:10:16" />
+    <file relUrl="bin/EntityFramework.SqlServer.dll" publishTime="06/07/2018 11:03:48" />
+    <file relUrl="bin/EntityFramework.SqlServer.xml" publishTime="06/07/2018 11:03:48" />
+    <file relUrl="Web.config" publishTime="02/20/2020 16:08:28" />
+    <file relUrl="bin/WCF_Final_01.pdb" publishTime="02/20/2020 16:10:16" />
+    <file relUrl="bin/WCF_Final_01.dll.config" publishTime="02/20/2020 16:08:28" />
+    <file relUrl="Papeletas.tt" publishTime="02/20/2020 16:08:32" />
+    <file relUrl="WCF_Final_01.ServicioPapeletas.svc" publishTime="02/20/2020 16:41:38" />
+    <file relUrl="bin/EntityFramework.xml" publishTime="06/07/2018 11:03:48" />
+    <file relUrl="Papeletas.Context.tt" publishTime="02/20/2020 16:08:27" />
+    <file relUrl="WCF_Final_01.Service1.svc" publishTime="02/20/2020 16:41:38" />
+  </publishTarget>
+</publishData>

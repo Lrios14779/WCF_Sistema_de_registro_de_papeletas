@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="87552931ca20424a9ffba4d1aace95fa" Name="Diagram1">
+        <EntityTypeShape EntityType="InfraccionesModel.Tb_Agente" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="InfraccionesModel.Tb_Auto" Width="1.5" PointX="5.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="InfraccionesModel.Tb_Color" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="InfraccionesModel.Tb_Distrito" Width="1.5" PointX="0.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="InfraccionesModel.Tb_Infraccion" Width="1.5" PointX="3" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="InfraccionesModel.Tb_Marca" Width="1.5" PointX="3" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="InfraccionesModel.Tb_Papeleta" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="InfraccionesModel.Tb_Propietario" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <AssociationConnector Association="InfraccionesModel.FK_Tb_Agente_Tb_Distrito" ManuallyRouted="false" />
+        <AssociationConnector Association="InfraccionesModel.FK_Tb_Papeleta_Tb_Agente" ManuallyRouted="false" />
+        <AssociationConnector Association="InfraccionesModel.FK_Tb_Auto_Tb_Color" ManuallyRouted="false" />
+        <AssociationConnector Association="InfraccionesModel.FK_Tb_Auto_Tb_Marca" ManuallyRouted="false" />
+        <AssociationConnector Association="InfraccionesModel.FK_Tb_Auto_Tb_Propietario" ManuallyRouted="false" />
+        <AssociationConnector Association="InfraccionesModel.FK_Tb_Papeleta_Tb_Auto" ManuallyRouted="false" />
+        <AssociationConnector Association="InfraccionesModel.FK_Tb_Propietario_Tb_Distrito" ManuallyRouted="false" />
+        <AssociationConnector Association="InfraccionesModel.FK_Tb_Papeleta_Tb_Infraccion" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
